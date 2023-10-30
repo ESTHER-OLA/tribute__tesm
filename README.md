@@ -52,10 +52,9 @@ I started this project by first downloading boostraps compiled js and css file, 
 I practice my knowledge in html, css and javascript in building this slider tribute page
 
 ## Author
+- Website - [Ola Esther](https://github.com/ESTHER-OLA)
+- Twitter - [Ola Esther](https://twitter.com/P_tomiwa_?t=HE5B98KKAv0af67LEabh6Q&s=09)
 
-- Website - [Ola Esther](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
 I want to appreciate my mentor @princessmaggy for her apts, explanatory coaching and encouragement given to do better in the process of my training, and I also want to appreciate the founder of hertechtrail academy in person of Coach Gloria Ojukwu for the palrtform. I'm so glad to have learned all that I have and I look forward to learn more. Thank you,hertechtrail.
