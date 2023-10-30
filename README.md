@@ -13,7 +13,6 @@ This is a solution to the [tribute page challenge on Hertechtrail 20days coding 
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
@@ -33,10 +32,11 @@ The screenshots for mobile and desktop view of this design is in the design fold
 
 ### Links
 
-- Solution URL: [Add solution URL here](https)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/ESTHER-OLA/tribute__tesm)
+- Live Site URL: (https://651747a890379f3003303340--mellow-pie-97d9c0.netlify.app/)
 
 ## My process
+I started this project by first downloading boostraps compiled js and css file, I then proceed by writing the respective HTML codes, proceeded to styling and finally javascript.
 
 ### Built with
 
@@ -44,20 +44,18 @@ The screenshots for mobile and desktop view of this design is in the design fold
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- Javascript
 - Mobile-first workflow
 - [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
-
-
-### Continued development
-
+I practice my knowledge in html, css and javascript in building this slider tribute page
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Ola Esther](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
-
+I want to appreciate my mentor @princessmaggy for her apts, explanatory coaching and encouragement given to do better in the process of my training, and I also want to appreciate the founder of hertechtrail academy in person of Coach Gloria Ojukwu for the palrtform. I'm so glad to have learned all that I have and I look forward to learn more. Thank you,hertechtrail.
